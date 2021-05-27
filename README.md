@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KalleKarthik007
+- 👋 Hi, I’m Kalle Karthik
 - 👀 I’m interested in Python and Javascript Programming.
 - 🌱 I’m currently learning DS and Algorithms, Python
 - 💞️ I’m looking to collaborate on Projects related to Data science, Web Development.
